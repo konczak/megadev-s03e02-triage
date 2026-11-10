@@ -1,6 +1,6 @@
 ---
 name: triage
-description: Use when sched-prod requests (backlog issues and IN-… requests from desk, chat and mail) must go into the tracker in doc/issues/. Requests in, a marked tracker out - every open issue labelled agent-ready or needs-human, every request in some issue's sources, every closed issue citing what decided it.
+description: Use when sched-prod requests (backlog issues and IN-… requests from desk, chat and mail) must go into the tracker (doc/issues/, or GitHub Issues filed from it). Requests in, a marked tracker out - every open issue labelled agent-ready or needs-human, every request in some issue's sources, every closed issue citing what decided it.
 ---
 
 # triage
