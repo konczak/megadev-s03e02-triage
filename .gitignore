@@ -1,0 +1,6 @@
+# holds the session token and gh state
+.sched/
+# junction to .agents/skills - git add would follow it and commit a second copy
+.claude/
+# staging copy of the tracker; the tracker is GitHub Issues
+doc/issues/
